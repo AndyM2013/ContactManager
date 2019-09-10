@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project is about to create an application in C# knowledge including:
+This project is about to create an application in C# using visual studio .NET windows framework including:
 
 • General programming statements for decision control and loops
 
